@@ -71,17 +71,17 @@ The AdventureWorks database spans **3 main schemas**:
 ### 01 — Revenue KPIs
 
 **Total Revenue by Year**
-<img src="screenshots/01_revenue_by_year.png" width="600"/>
+<img src="screenshots/01_revenue_by_year.png" width="700"/>
 
 **Online vs In-Store Revenue Split**
-<img src="screenshots/01_online_vs_instore.png" width="600"/>
+<img src="screenshots/01_online_vs_instore.png" width="700"/>
 
 ---
 
 ### 02 — Product Analysis
 
 **Top 10 Products by Revenue**
-<img src="screenshots/02_top10_products.png" width="600"/>
+<img src="screenshots/02_top10_products.png" width="700"/>
 
 **Dead Inventory — Zero Sales in Last 12 Months**
 <img src="screenshots/02_dead_inventory.png" width="600"/>
