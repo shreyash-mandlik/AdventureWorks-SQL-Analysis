@@ -70,10 +70,9 @@ The AdventureWorks database spans **3 main schemas**:
 
 ### 01 — Revenue KPIs
 
-<div align="center">
-
 **Total Revenue by Year**
-<img src="screenshots/01_revenue_by_year.png" width="800"/>
+
+<img src="screenshots/01_revenue_by_year.png" width="700" display="block"/>
 
 **Online vs In-Store Revenue Split**
 <img src="screenshots/01_online_vs_instore.png" width="800"/>
