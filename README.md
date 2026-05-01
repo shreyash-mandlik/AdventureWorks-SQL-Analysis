@@ -72,65 +72,55 @@ The AdventureWorks database spans **3 main schemas**:
 
 **Total Revenue by Year**
 
-<img src="screenshots/01_revenue_by_year.png" width="700" display="block"/>
+<img src="screenshots/01_revenue_by_year.png" width="700"/>
 
 **Online vs In-Store Revenue Split**
-<img src="screenshots/01_online_vs_instore.png" width="800"/>
 
-</div>
+<img src="screenshots/01_online_vs_instore.png" width="700"/>
 
 ---
 
 ### 02 — Product Analysis
 
-<div align="center">
-
 **Top 10 Products by Revenue**
-<img src="screenshots/02_top10_products.png" width="800"/>
+
+<img src="screenshots/02_top10_products.png" width="700"/>
 
 **Dead Inventory — Zero Sales in Last 12 Months**
-<img src="screenshots/02_dead_inventory.png" width="800"/>
 
-</div>
+<img src="screenshots/02_dead_inventory.png" width="700"/>
 
 ---
 
 ### 03 — Customer Segmentation (RFM)
 
-<div align="center">
-
 **RFM Segment Summary**
-<img src="screenshots/03_rfm_segments.png" width="800"/>
 
-</div>
+<img src="screenshots/03_rfm_segments.png" width="700"/>
 
 ---
 
 ### 04 — Trend Analysis
 
-<div align="center">
-
 **Month-over-Month Revenue Growth**
-<img src="screenshots/04_mom_growth.png" width="800"/>
+
+<img src="screenshots/04_mom_growth.png" width="700"/>
 
 **Cohort Retention Analysis**
-<img src="screenshots/04_cohort_retention.png" width="800"/>
 
-</div>
+<img src="screenshots/04_cohort_retention.png" width="700"/>
 
 ---
 
 ### 05 — Sales Rep Performance
 
-<div align="center">
-
 **Revenue & Orders per Sales Rep**
-<img src="screenshots/05_rep_leaderboard.png" width="800"/>
+
+<img src="screenshots/05_rep_leaderboard.png" width="700"/>
 
 **YoY Growth per Sales Rep**
-<img src="screenshots/05_yoy_growth.png" width="800"/>
 
-</div>
+<img src="screenshots/05_yoy_growth.png" width="700"/>
 
 ---
 
