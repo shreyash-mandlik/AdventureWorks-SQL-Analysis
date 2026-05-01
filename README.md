@@ -126,13 +126,11 @@ The AdventureWorks database spans **3 main schemas**:
 
 ## 💡 Key Insights
 
-> Replace these with your actual query results before publishing.
-
-- **Revenue:** Peak revenue year was 20XX with $X.XM total
-- **Products:** Top 3 categories drive ~68% of total revenue; Mountain Bikes alone = 28%
-- **Customers:** Champions segment (top RFM tier) = ~8% of customers, ~41% of revenue
-- **Trends:** MoM growth averaged +4.1% in 2013; Month 1 retention ~40%
-- **Sales Reps:** Top rep outperformed territory average by X%
+- **Revenue:** Total revenue grew from $16.3M (2022) → $49M (2024). Southwest USA is the top territory at 22% revenue share. In-Store avg order value ($23,850) is 20x higher than Online ($1,172).
+- **Products:** Bikes dominate with 86% of total revenue. Mountain-200 Black 38 is the #1 product at $4.4M. All top 10 products are exclusively from the Bikes category.
+- **Customers:** 6 RFM segments identified — Champions (2,057 customers, avg spend $4,916) drive highest value; At Risk segment (4,103 customers) is the biggest re-engagement opportunity; Lost segment (1,295 customers, avg spend $55) needs win-back campaigns.
+- **Trends:** Online revenue peaked in May 2025 at $2.1M. November 2023 saw strongest MoM growth at +54.7%. June 2025 shows sharp decline (-97.5%) — likely incomplete month data.
+- **Sales Reps:** Jae Pak is #1 rep at $9.58M total revenue. Linda Mitchell leads Southwest territory. Michael Blythe showed strongest YoY growth at +212% from 2022→2023. Most reps show 2025 decline due to partial year data.
 
 ---
 
@@ -142,12 +140,6 @@ The AdventureWorks database spans **3 main schemas**:
 2. Restore into pgAdmin
 3. Open any `.sql` file via pgAdmin Query Tool → 📂 → select file → ▶️ run
 4. Run files in order (01 → 05)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
